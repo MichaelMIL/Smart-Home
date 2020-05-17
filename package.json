@@ -1,0 +1,15 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-fs-ops": "~1.5.0",
+        "node-red-contrib-tasmota": "~0.9.4",
+        "node-red-contrib-telegrambot-home": "~0.5.2",
+        "node-red-contrib-time-range-switch": "~1.0.0",
+        "node-red-contrib-traffic": "~0.2.1",
+        "node-red-contrib-ui-led": "~0.3.1",
+        "node-red-dashboard": "~2.22.1"
+    }
+}
